@@ -1,0 +1,1 @@
+pubilc static void main
